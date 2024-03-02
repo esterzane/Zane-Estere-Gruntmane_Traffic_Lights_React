@@ -1,0 +1,28 @@
+body {
+  background-color: beige;
+} 
+
+.trafficHold {
+  display: flex;
+  border: 6px solid black;
+  position:relative; 
+  height: 100px;
+  width: 0px ;
+} 
+
+.wrapper {
+  background-color: black;
+  position: relative; 
+  width: fit-content;
+  border-radius: 10%;
+ 
+} 
+
+.sign {
+  margin: 1.5rem;
+}
+
+.glow {
+  box-shadow: 0 0 15px 15px #48abe0;
+}
+
